@@ -39,17 +39,6 @@ Soy un **Desarrollador Android** apasionado por crear aplicaciones móviles efic
 
 </div>
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlbertoSB00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoSB00&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertoSB00&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 🏆 Proyectos Destacados
 
 ### 📱 [PopFlix](https://github.com/iesgrancapitan-proyectos/202324DAM-junio-PopFlix)
