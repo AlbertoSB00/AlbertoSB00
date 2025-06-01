@@ -41,7 +41,7 @@ Soy un **Desarrollador Android** apasionado por crear aplicaciones móviles efic
 
 ## 🏆 Proyectos Destacados
 
-### 📱 [PopFlix](https://github.com/iesgrancapitan-proyectos/202324DAM-junio-PopFlix)
+### 📱 [PopFlix](https://github.com/AlbertoSB00/gestionCine)
 **Aplicación de gestión de cines** desarrollada en Java
 - 🎯 Gestión completa de cines, películas y sesiones
 - 💻 Versión móvil y de escritorio
